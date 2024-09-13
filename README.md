@@ -11,10 +11,8 @@ This project is designed for beginners who are new to QGIS. The included PDF gui
 
 ## Contents
 
-- `tutorial.pdf`: A comprehensive introduction to QGIS for beginners, explaining various tools and functions.
-- `data.zip`: A ZIP file containing all the spatial data used in the tutorial, including shapefiles and other resources.
-- `requirements.txt`: A list of software requirements (mainly QGIS version 3.0 and above).
-
+- `QGIS for beginer.pdf`: A comprehensive introduction to QGIS for beginners, explaining various tools and functions.
+- `introduction_to_qgis.7z`: A ZIP file containing all the spatial data used in the tutorial, including shapefiles and other resources.
 ## Getting Started
 
 1. **Download the entire repository**:
@@ -27,7 +25,7 @@ This project is designed for beginners who are new to QGIS. The included PDF gui
    - If you don’t already have QGIS installed, download and install **QGIS version 3.0 or above**. See the [QGIS download page](https://qgis.org/en/site/forusers/download.html) for installation instructions.
    
 4. **Follow the Tutorial**:
-   - Open the `tutorial.pdf` and follow the instructions to get started with QGIS using the provided data in the `data` folder.
+   - Open the `.pdf` and follow the instructions to get started with QGIS using the provided data in the `data` folder.
 
 ## Requirements
 
